@@ -21,4 +21,7 @@
 *.i*86
 *.x86_64
 *.hex
+
+# example executables
 connect/connect
+exec/exec
